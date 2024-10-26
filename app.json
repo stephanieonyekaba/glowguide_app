@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "GlowGuide_app",
-    "slug": "GlowGuide_app",
+    "name": "GlowGuide",
+    "slug": "GlowGuide",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "GlowGuide_app",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
